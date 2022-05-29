@@ -1,2 +1,3 @@
-let firstName =('Kamil');
-let lastName =('Bagiński');
+let napis =('Uwielbiam JavaScript');
+
+console.log(napis);
